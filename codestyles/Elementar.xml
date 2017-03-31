@@ -23,6 +23,7 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="RIGHT_MARGIN" value="400" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
   </codeStyleSettings>
