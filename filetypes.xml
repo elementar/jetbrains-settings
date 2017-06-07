@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="Ini" />
     </extensionMap>
   </component>
 </application>
