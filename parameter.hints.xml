@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="Lab.experiment(desc,cb)" />
+        <added pattern="Lab.test(desc,cb)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
