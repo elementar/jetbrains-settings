@@ -4,6 +4,7 @@
       <blacklist language="TypeScript">
         <added pattern="Lab.experiment(desc,cb)" />
         <added pattern="Lab.test(desc,cb)" />
+        <added pattern="Values.equal(value,options)" />
       </blacklist>
     </blacklists>
   </component>
