@@ -5,6 +5,7 @@
         <added pattern="Lab.experiment(desc,cb)" />
         <added pattern="Lab.test(desc,cb)" />
         <added pattern="Values.equal(value,options)" />
+        <added pattern="createKoaServer(options)" />
       </blacklist>
     </blacklists>
   </component>
