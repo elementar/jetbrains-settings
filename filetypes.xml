@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="test" type="Dockerfile" />
       <mapping pattern=".editorconfig" type="Ini" />
+      <mapping ext="env" type="Ini" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
