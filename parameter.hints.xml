@@ -7,6 +7,7 @@
         <added pattern="Values.equal(value,options)" />
         <added pattern="createKoaServer(options)" />
         <added pattern="expect(value,prefix)" />
+        <added pattern="log(args)" />
       </blacklist>
     </blacklists>
   </component>
