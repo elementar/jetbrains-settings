@@ -8,6 +8,9 @@
         <added pattern="createKoaServer(options)" />
         <added pattern="expect(value,prefix)" />
         <added pattern="log(args)" />
+        <added pattern="insertMany(cls,values)" />
+        <added pattern="_.LoDashStatic.range(start,end,step)" />
+        <added pattern="before(callback)" />
       </blacklist>
     </blacklists>
   </component>
