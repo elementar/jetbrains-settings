@@ -12,6 +12,7 @@
         <added pattern="_.LoDashStatic.range(start,end,step)" />
         <added pattern="before(callback)" />
         <added pattern="QueryRunner.insert(tableName,valuesMap)" />
+        <added pattern="EntityManager.transaction(runInTransaction)" />
       </blacklist>
     </blacklists>
   </component>
