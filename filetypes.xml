@@ -5,12 +5,13 @@
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="env" type="Ini" />
       <mapping pattern=".jestrc" type="JSON" />
+      <mapping ext="snap" type="JavaScript" />
       <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="ctr" type="PLAIN_TEXT" />
-      <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ctr" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
