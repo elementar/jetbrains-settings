@@ -13,6 +13,7 @@
         <added pattern="before(callback)" />
         <added pattern="QueryRunner.insert(tableName,valuesMap)" />
         <added pattern="EntityManager.transaction(runInTransaction)" />
+        <added pattern="String.split(separator,limit)" />
       </blacklist>
     </blacklists>
   </component>
