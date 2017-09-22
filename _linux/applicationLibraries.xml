@@ -1874,6 +1874,34 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/doorkeeper" />
       </SOURCES>
     </library>
+    <library name="doorkeeper-mongodb (v3.0.0@899aa3, RVM: ruby-2.3.4 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/doorkeeper" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/bundler/gems/doorkeeper-mongodb-899aa306f45b/doorkeeper" />
+      </SOURCES>
+    </library>
+    <library name="doorkeeper-mongodb (v3.0.0@899aa3, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/lib" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/config" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/gemfiles" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/doorkeeper" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/lib" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/config" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/gemfiles" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/doorkeeper" />
+      </SOURCES>
+    </library>
     <library name="draper (v2.1.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/draper-2.1.0/lib" />
@@ -4358,6 +4386,42 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/bin" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/ext" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/lib" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/tasks" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/patches" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.0, RVM: ruby-2.3.4 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@global/gems/nokogiri-1.8.0/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/bin" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/ext" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/lib" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/tasks" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/patches" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/suppressions" />
+      </CLASSES>
+      <SOURCES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/bin" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/ext" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/lib" />
