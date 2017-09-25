@@ -246,6 +246,18 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/addressable-2.5.1/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/data" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/data" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="airborne (v0.2.13, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/airborne-0.2.13/lib" />
@@ -442,6 +454,14 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sigv4 (v1.0.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/aws-sigv4-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/aws-sigv4-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="axiom-types (v0.1.1, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/lib" />
@@ -522,10 +542,12 @@
     </library>
     <library name="bcrypt (v3.1.11, ruby-2.3.3-p222) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file:///var/lib/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file:///var/lib/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -622,6 +644,22 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/browser-2.5.0/.bundle" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/browser-2.5.0/.github" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/browser-2.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="browser (v2.5.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/.bundle" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/.github" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/.bundle" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/.github" />
+        <root url="file:///var/lib/gems/2.3.0/gems/browser-2.5.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="bson (v4.2.2, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -1236,6 +1274,16 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="coercible (v1.0.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/lib" />
@@ -1384,6 +1432,14 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/crass-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/crass-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="dalli (v2.7.6, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/dalli-2.7.6/lib" />
@@ -1458,10 +1514,12 @@
     </library>
     <library name="debug_inspector (v0.0.3, ruby-2.3.3-p222) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file:///var/lib/gems/2.3.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/debug_inspector-0.0.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file:///var/lib/gems/2.3.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/debug_inspector-0.0.3/lib" />
       </SOURCES>
@@ -1868,6 +1926,20 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/config" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/gemfiles" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/bundler/gems/doorkeeper-mongodb-899aa306f45b/doorkeeper" />
+      </SOURCES>
+    </library>
+    <library name="doorkeeper-mongodb (v3.0.1@9053cc, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/lib" />
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/config" />
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/gemfiles" />
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/doorkeeper" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/lib" />
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/config" />
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/gemfiles" />
+        <root url="file:///var/lib/gems/2.3.0/bundler/gems/doorkeeper-mongodb-9053cc301b27/doorkeeper" />
       </SOURCES>
     </library>
     <library name="draper (v2.1.0, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -2294,12 +2366,14 @@
     </library>
     <library name="ffi (v1.9.18, ruby-2.3.3-p222) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/gen" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/gen" />
         <root url="file:///var/lib/gems/2.3.0/gems/ffi-1.9.18/lib" />
@@ -3050,6 +3124,7 @@
     </library>
     <library name="json (v2.1.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/data" />
@@ -3060,6 +3135,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.1.0/data" />
@@ -3658,6 +3734,16 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/mini_portile2-2.2.0/concourse" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.3.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.3, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitest-5.10.3/lib" />
@@ -3966,6 +4052,14 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.12.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/multi_json-1.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/multi_json-1.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
@@ -4068,6 +4162,16 @@
       <SOURCES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/mustermann-1.0.0/lib" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/mustermann-1.0.0/bench" />
+      </SOURCES>
+    </library>
+    <library name="mustermann (v1.0.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mustermann-1.0.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mustermann-1.0.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mustermann-1.0.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mustermann-1.0.1/bench" />
       </SOURCES>
     </library>
     <library name="mustermann-grape (v1.0.0, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -4228,6 +4332,22 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/newrelic_rpm-4.3.0.335/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v4.4.0.336, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/cert" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/config" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/cert" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/config" />
+        <root url="file:///var/lib/gems/2.3.0/gems/newrelic_rpm-4.4.0.336/recipes" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/bin" />
@@ -4356,11 +4476,13 @@
     </library>
     <library name="patron (v0.9.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.9.1" />
         <root url="file:///var/lib/gems/2.3.0/gems/patron-0.9.1/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/patron-0.9.1/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/patron-0.9.1/script" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.9.1" />
         <root url="file:///var/lib/gems/2.3.0/gems/patron-0.9.1/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/patron-0.9.1/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/patron-0.9.1/script" />
@@ -4524,6 +4646,18 @@
       <SOURCES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/public_suffix-2.0.5/lib" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/public_suffix-2.0.5/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/public_suffix-3.0.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/public_suffix-3.0.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/public_suffix-3.0.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/public_suffix-3.0.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/public_suffix-3.0.0/data" />
       </SOURCES>
     </library>
     <library name="puma (v3.10.0, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -5048,6 +5182,18 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/rake-12.0.0/bin" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/rake-12.0.0/exe" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/rake-12.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.1.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.1.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.1.0/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.1.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.1.0/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.1.0/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.3, ruby-2.3.3-p222) [gem]">
@@ -5708,6 +5854,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.3, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-progressbar-1.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-progressbar-1.8.3/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.4 [consyste]) [gem]">
