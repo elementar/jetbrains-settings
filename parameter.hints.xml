@@ -1,0 +1,21 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="Lab.experiment(desc,cb)" />
+        <added pattern="Lab.test(desc,cb)" />
+        <added pattern="Values.equal(value,options)" />
+        <added pattern="createKoaServer(options)" />
+        <added pattern="expect(value,prefix)" />
+        <added pattern="log(args)" />
+        <added pattern="insertMany(cls,values)" />
+        <added pattern="_.LoDashStatic.range(start,end,step)" />
+        <added pattern="before(callback)" />
+        <added pattern="QueryRunner.insert(tableName,valuesMap)" />
+        <added pattern="EntityManager.transaction(runInTransaction)" />
+        <added pattern="String.split(separator,limit)" />
+        <added pattern="Array.map(callbackfn,thisArg)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
