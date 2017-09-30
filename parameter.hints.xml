@@ -14,6 +14,8 @@
         <added pattern="QueryRunner.insert(tableName,valuesMap)" />
         <added pattern="EntityManager.transaction(runInTransaction)" />
         <added pattern="String.split(separator,limit)" />
+        <added pattern="Array.map(callbackfn,thisArg)" />
+        <added pattern="moment.Moment.month(M)" />
       </blacklist>
     </blacklists>
   </component>
