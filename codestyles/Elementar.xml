@@ -1,4 +1,4 @@
-<code_scheme name="Elementar">
+<code_scheme name="Elementar" version="173">
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
@@ -12,7 +12,6 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="OBJECT_WRAPPING" value="5" />
@@ -30,7 +29,6 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -63,5 +61,9 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
