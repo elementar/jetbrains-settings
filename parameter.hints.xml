@@ -16,6 +16,7 @@
         <added pattern="String.split(separator,limit)" />
         <added pattern="Array.map(callbackfn,thisArg)" />
         <added pattern="moment.Moment.month(M)" />
+        <added pattern="jest.Matchers.toEqual(expected)" />
       </blacklist>
     </blacklists>
   </component>
