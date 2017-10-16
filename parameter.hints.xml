@@ -17,6 +17,7 @@
         <added pattern="Array.map(callbackfn,thisArg)" />
         <added pattern="moment.Moment.month(M)" />
         <added pattern="jest.Matchers.toEqual(expected)" />
+        <added pattern="Array.filter(callbackfn,thisArg)" />
       </blacklist>
     </blacklists>
   </component>
