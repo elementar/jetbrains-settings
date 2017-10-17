@@ -18,6 +18,7 @@
         <added pattern="moment.Moment.month(M)" />
         <added pattern="jest.Matchers.toEqual(expected)" />
         <added pattern="Array.filter(callbackfn,thisArg)" />
+        <added pattern="SelectQueryBuilder.leftJoinAndSelect(property,aliasName,condition,parameters)" />
       </blacklist>
     </blacklists>
   </component>
