@@ -19,6 +19,9 @@
         <added pattern="jest.Matchers.toEqual(expected)" />
         <added pattern="Array.filter(callbackfn,thisArg)" />
       </blacklist>
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
