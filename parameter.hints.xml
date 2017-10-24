@@ -22,6 +22,9 @@
         <added pattern="QueryRunner.query(query,parameters)" />
         <added pattern="EmailTemplate.send(to,data)" />
       </blacklist>
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
