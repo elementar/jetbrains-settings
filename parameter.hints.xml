@@ -16,6 +16,14 @@
         <added pattern="String.split(separator,limit)" />
         <added pattern="Array.map(callbackfn,thisArg)" />
         <added pattern="moment.Moment.month(M)" />
+        <added pattern="jest.Matchers.toEqual(expected)" />
+        <added pattern="Array.filter(callbackfn,thisArg)" />
+        <added pattern="SelectQueryBuilder.leftJoinAndSelect(property,aliasName,condition,parameters)" />
+        <added pattern="QueryRunner.query(query,parameters)" />
+        <added pattern="EmailTemplate.send(to,data)" />
+      </blacklist>
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
       </blacklist>
     </blacklists>
   </component>
