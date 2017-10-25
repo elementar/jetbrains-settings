@@ -250,6 +250,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-partitions-1.24.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.26.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-partitions-1.26.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-partitions-1.26.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.31, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-sdk-2.10.31/lib" />
@@ -328,6 +336,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-sdk-s3-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.5.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-sdk-s3-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/aws-sdk-s3-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.1, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -546,6 +562,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/capybara-2.15.3/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.15.4, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/capybara-2.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/capybara-2.15.4/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/capybara-2.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/capybara-2.15.4/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara-screenshot (v1.0.17, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/capybara-screenshot-1.0.17/lib" />
@@ -562,6 +588,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-0.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="carrierwave (v1.2.1, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-1.2.1/lib" />
       </SOURCES>
     </library>
     <library name="carrierwave-aws (v1.2.0, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -590,6 +624,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-0.10.0/log" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-0.10.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="carrierwave-mongoid (v1.0.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-1.0.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-1.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-1.0.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/carrierwave-mongoid-1.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="cells (v3.11.3, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -1108,6 +1154,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashdiff-0.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashdiff (v0.3.7, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashdiff-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashdiff-0.3.7/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie (v3.5.6, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashie-3.5.6/lib" />
@@ -1294,6 +1348,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-actionview-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.1.1, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-actionview-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-actionview-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-core (v1.0.1, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.0.1/app" />
@@ -1304,6 +1366,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.0.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.0.1/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.1, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kaminari-core-1.1.1/config" />
       </SOURCES>
     </library>
     <library name="kaminari-mongoid (v1.0.1, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -1838,6 +1912,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-0.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.11.2, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-0.11.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-0.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-0.11.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-0.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-rails (v0.3.6, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-rails-0.3.6/lib" />
@@ -1946,6 +2030,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rack-cors-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-cors (v1.0.2, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rack-cors-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rack-cors-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.0, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -2160,6 +2252,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.7.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-collection_matchers (v1.1.3, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-collection_matchers-1.1.3/lib" />
@@ -2182,12 +2282,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-core-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.7.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-core-3.7.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-core-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-core-3.7.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-core-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.6.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-expectations-3.6.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-expectations-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.7.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-expectations-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-expectations-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-json_expectations (v2.1.0, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -2212,6 +2330,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-mocks-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.7.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-mocks-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-mocks-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-prof (v0.0.7, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-prof-0.0.7/lib" />
@@ -2228,6 +2354,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-rails-3.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.7.1, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-rails-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-rails-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-retry (v0.5.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-retry-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-retry-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-retry-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-retry-0.5.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.5.5, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -2254,6 +2398,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-support-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.7.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-support-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rspec-support-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-teamcity (v0.0.1, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -2758,6 +2910,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/webmock-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/webmock-3.0.1/minitest" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v3.1.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/webmock-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/webmock-3.1.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/webmock-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/webmock-3.1.0/minitest" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.3.4 [consyste]) [gem]">
