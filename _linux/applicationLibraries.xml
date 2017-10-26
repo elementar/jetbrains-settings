@@ -1072,6 +1072,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-0.19.2/lib" />
       </SOURCES>
     </library>
+    <library name="grape (v1.0.1, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-middleware-lograge (v1.2.3, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-middleware-lograge-1.2.3/lib" />
@@ -1460,6 +1474,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/mongoid-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid (v6.2.1, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/mongoid-6.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/mongoid-6.2.1/lib" />
       </SOURCES>
     </library>
     <library name="mongoid-compatibility (v0.5.0, RVM: ruby-2.3.5 [consyste]) [gem]">
