@@ -21,6 +21,7 @@
         <added pattern="SelectQueryBuilder.leftJoinAndSelect(property,aliasName,condition,parameters)" />
         <added pattern="QueryRunner.query(query,parameters)" />
         <added pattern="EmailTemplate.send(to,data)" />
+        <added pattern="createClient(url,options,callback)" />
       </blacklist>
       <blacklist language="Ruby">
         <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
