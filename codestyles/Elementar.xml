@@ -1,5 +1,4 @@
-<code_scheme name="Elementar" version="173">
-  <option name="SOFT_MARGINS" value="80,120" />
+<code_scheme name="Elementar">
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
@@ -64,6 +63,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
+    <option name="INDENT_WHEN_CASES" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
   </codeStyleSettings>
