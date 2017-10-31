@@ -23,6 +23,8 @@
         <added pattern="EmailTemplate.send(to,data)" />
         <added pattern="createClient(url,options,callback)" />
         <added pattern="JSON.stringify(value,replacer,space)" />
+        <added pattern="Logger.child(options,simple)" />
+        <added pattern="Logger.info(obj,params)" />
       </blacklist>
       <blacklist language="Ruby">
         <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
