@@ -28,6 +28,9 @@
       </blacklist>
       <blacklist language="Ruby">
         <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
+        <added pattern="Mongoid::Fields::ClassMethods.field(name,options)" />
+        <added pattern="Mongoid::Indexable::ClassMethods.index(spec,options)" />
+        <added pattern="Mongoid::Scopable::ClassMethods.scope(name,value,block)" />
       </blacklist>
     </blacklists>
   </component>
