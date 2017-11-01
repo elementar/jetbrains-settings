@@ -7,6 +7,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="env" type="Ini" />
+      <mapping pattern=".resultset.json.lock" type="JSON" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping ext="snap" type="JavaScript" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -16,6 +17,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping pattern=".simplecov" type="Ruby" />
       <mapping ext="mustache" type="XML" />
     </extensionMap>
   </component>
