@@ -31,6 +31,7 @@
         <added pattern="Mongoid::Document.initialize(attrs)" />
         <added pattern="Mongoid::Persistable::Creatable::ClassMethods.create!(attributes,block)" />
         <added pattern="RSpec::Core::MemoizedHelpers::ClassMethods.let!(name,block)" />
+        <added pattern="ActiveSupport::HashWithIndifferentAccess.initialize(constructor)" />
       </blacklist>
     </blacklists>
   </component>
