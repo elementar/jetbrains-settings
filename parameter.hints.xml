@@ -30,6 +30,7 @@
         <added pattern="Mongoid::Scopable::ClassMethods.scope(name,value,block)" />
         <added pattern="Mongoid::Document.initialize(attrs)" />
         <added pattern="Mongoid::Persistable::Creatable::ClassMethods.create!(attributes,block)" />
+        <added pattern="RSpec::Core::MemoizedHelpers::ClassMethods.let!(name,block)" />
       </blacklist>
     </blacklists>
   </component>
