@@ -298,6 +298,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.27.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.28.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.28.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.28.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.52, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-2.10.52/lib" />
@@ -2430,6 +2438,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-middleware-lograge-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="grape_logging (v1.7.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape_logging-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape_logging-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape_logging-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape_logging-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="hashdiff (v0.3.6, RVM: ruby-2.3.5 [consyste]) [gem]">
