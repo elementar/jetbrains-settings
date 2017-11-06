@@ -398,6 +398,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.28.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.30.0, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-partitions-1.30.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-partitions-1.30.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.52, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-2.10.52/lib" />
@@ -1414,10 +1422,12 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -1466,10 +1476,12 @@
     </library>
     <library name="bson (v4.2.2, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bson-4.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bson-4.2.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bson-4.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bson-4.2.2/lib" />
       </SOURCES>
@@ -1488,9 +1500,11 @@
     </library>
     <library name="bson_ext (v1.5.1, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bson_ext-1.5.1/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bson_ext-1.5.1/ext" />
       </SOURCES>
     </library>
@@ -1728,6 +1742,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/capybara-screenshot-1.0.17/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/capybara-screenshot-1.0.17/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="capybara-screenshot (v1.0.18, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/capybara-screenshot-1.0.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/capybara-screenshot-1.0.18/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/capybara-screenshot-1.0.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/capybara-screenshot-1.0.18/gemfiles" />
       </SOURCES>
     </library>
     <library name="carrierwave (v0.11.2, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -2000,6 +2024,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/database_cleaner-1.6.1/features" />
       </SOURCES>
     </library>
+    <library name="database_cleaner (v1.6.2, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/database_cleaner-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/database_cleaner-1.6.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/database_cleaner-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/database_cleaner-1.6.2/features" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.1, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/debase-0.2.1/ext" />
@@ -2048,10 +2082,12 @@
     </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/debug_inspector-0.0.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/debug_inspector-0.0.3/lib" />
       </SOURCES>
@@ -2534,12 +2570,14 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ffi-1.9.18/lib" />
@@ -3214,6 +3252,7 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/data" />
@@ -3224,6 +3263,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/json-2.1.0/data" />
@@ -3346,11 +3386,13 @@
     </library>
     <library name="kgio (v2.11.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.0/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.0/archive" />
@@ -3430,6 +3472,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/mail-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.7.0, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/mail-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/mail-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="memory_profiler (v0.9.8, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -3962,6 +4012,7 @@
     </library>
     <library name="nokogiri (v1.8.1, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/lib" />
@@ -3970,6 +4021,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/nokogiri-1.8.1/lib" />
@@ -4072,11 +4124,13 @@
     </library>
     <library name="patron (v0.10.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/patron-0.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/patron-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/patron-0.10.0/script" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/patron-0.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/patron-0.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/patron-0.10.0/script" />
@@ -4270,12 +4324,14 @@
     </library>
     <library name="puma (v3.10.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/puma-3.10.0/lib" />
@@ -4322,6 +4378,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/r509-1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/r509-1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="r509 (v1.0.1, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/r509-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/r509-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/r509-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/r509-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.8, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -4772,12 +4838,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-3.3.5/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.1, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-4.0.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-4.0.1/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-4.0.1/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-namespace (v1.5.3, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-namespace-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-namespace-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-namespace (v1.6.0, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-namespace-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/redis-namespace-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="request_store (v1.3.2, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -5022,6 +5108,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/rspec-retry-0.5.5/gemfiles" />
       </SOURCES>
     </library>
+    <library name="rspec-retry (v0.5.6, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/rspec-retry-0.5.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/rspec-retry-0.5.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/rspec-retry-0.5.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/rspec-retry-0.5.6/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="rspec-sidekiq (v3.0.3, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/rspec-sidekiq-3.0.3/lib" />
@@ -5134,11 +5230,13 @@
     </library>
     <library name="ruby-prof (v0.16.2, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.16.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ruby-prof-0.16.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ruby-prof-0.16.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ruby-prof-0.16.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.16.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ruby-prof-0.16.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ruby-prof-0.16.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/ruby-prof-0.16.2/lib" />
@@ -5334,6 +5432,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/selenium-webdriver-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.7.0, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/selenium-webdriver-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/selenium-webdriver-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v3.1.2@4b160b, RVM: ruby-2.4.1 [brava]) [gem]">
