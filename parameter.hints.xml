@@ -28,6 +28,13 @@
         <added pattern="Mongoid::Fields::ClassMethods.field(name,options)" />
         <added pattern="Mongoid::Indexable::ClassMethods.index(spec,options)" />
         <added pattern="Mongoid::Scopable::ClassMethods.scope(name,value,block)" />
+        <added pattern="Mongoid::Document.initialize(attrs)" />
+        <added pattern="Mongoid::Persistable::Creatable::ClassMethods.create!(attributes,block)" />
+        <added pattern="RSpec::Core::MemoizedHelpers::ClassMethods.let!(name,block)" />
+        <added pattern="ActiveSupport::HashWithIndifferentAccess.initialize(constructor)" />
+        <added pattern="Net::HTTP::HTTP.post(url,data,header)" />
+        <added pattern="Acoes::self.chama_acao(nome,parametros)" />
+        <added pattern="Acoes::self.chama_acao(nome,cnpj,parametros)" />
       </blacklist>
     </blacklists>
   </component>
