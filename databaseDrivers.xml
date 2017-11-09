@@ -1,8 +1,10 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="exasol">
-      <artifact name="Exasol" use="true" />
-      <option name="auto-sync" value="true" />
+    <driver id="exasol" name="?" driver-class="null">
+      <artifact name="Exasol" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
@@ -46,8 +48,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" />
+      <artifact name="PostgreSQL" use="true" version="42.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
