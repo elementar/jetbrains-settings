@@ -22,6 +22,7 @@
         <added pattern="QueryRunner.query(query,parameters)" />
         <added pattern="EmailTemplate.send(to,data)" />
         <added pattern="createClient(url,options,callback)" />
+        <added pattern="fixDates(content)" />
       </blacklist>
       <blacklist language="Ruby">
         <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
@@ -35,6 +36,7 @@
         <added pattern="Net::HTTP::HTTP.post(url,data,header)" />
         <added pattern="Acoes::self.chama_acao(nome,parametros)" />
         <added pattern="Acoes::self.chama_acao(nome,cnpj,parametros)" />
+        <added pattern="SolicitacaoDownload::self.solicita!(tipo_documento,formato,params,usuario)" />
       </blacklist>
     </blacklists>
   </component>

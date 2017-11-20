@@ -12,13 +12,14 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.js*</mask>
       <mask>*.js*,*</mask>
       <mask>*.js*,*.rb</mask>
+      <mask>*</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
