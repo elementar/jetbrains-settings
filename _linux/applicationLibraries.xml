@@ -398,6 +398,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/airborne-0.2.13/lib" />
       </SOURCES>
     </library>
+    <library name="amq-protocol (v2.2.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/codegen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/codegen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/amq-protocol-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.7.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/archive-zip-0.7.0/lib" />
@@ -1986,6 +2000,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bunny (v2.7.2, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bunny-2.7.2/bin" />
       </SOURCES>
     </library>
     <library name="byebug (v9.1.0, RVM: ruby-2.3.5 [consyste]) [gem]">
