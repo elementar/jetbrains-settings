@@ -4126,6 +4126,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/lograge-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="lograge (v0.7.1, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/lograge-0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/lograge-0.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.4.1 [brava]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/loofah-2.0.3/benchmark" />
@@ -6534,6 +6542,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/request_store-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="request_store (v1.3.2, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/request_store-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/request_store-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="require_all (v1.4.0, RVM: ruby-2.4.2 [consyste]) [gem]">
