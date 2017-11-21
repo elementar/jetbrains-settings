@@ -2364,6 +2364,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/coercible-1.0.0/config" />
       </SOURCES>
     </library>
+    <library name="committee (v1.15.0, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/committee-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/committee-1.15.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/committee-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/committee-1.15.0/bin" />
+      </SOURCES>
+    </library>
     <library name="committee (v2.0.0, RVM: ruby-2.4.1 [brava]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/committee-2.0.0/lib" />
@@ -2518,6 +2528,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/crass-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.3, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/crass-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="dalli (v2.7.6, ruby-2.3.3-p222) [gem]">
@@ -5564,6 +5582,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/tools" />
       </SOURCES>
     </library>
+    <library name="puma (v3.11.0, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/puma-3.11.0/ext" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.11.0, RVM: ruby-2.4.2 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
@@ -5848,6 +5882,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rack-test-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.8.2, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rack-test-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rack-test-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.8.2, RVM: ruby-2.4.2 [consyste]) [gem]">
@@ -6182,6 +6224,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.2.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.2.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.0, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.3.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rake-12.3.0/bin" />
       </SOURCES>
     </library>
     <library name="rake (v12.3.0, RVM: ruby-2.4.2 [consyste]) [gem]">
@@ -6776,6 +6830,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rspec-rails-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.7.2, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rspec-rails-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.5.0, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -8218,6 +8280,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/webmock-3.1.0/minitest" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/webmock-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v3.1.1, RVM: ruby-2.4.1 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/webmock-3.1.1/minitest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/webmock-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/webmock-3.1.1/minitest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@brava/gems/webmock-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="webmock (v3.1.1, RVM: ruby-2.4.2 [consyste]) [gem]">
