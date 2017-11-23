@@ -3594,6 +3594,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape-1.0.1/pkg" />
       </SOURCES>
     </library>
+    <library name="grape-entity (v0.6.0, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-entity-0.6.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-entity-0.6.0/bench" />
+      </SOURCES>
+    </library>
     <library name="grape-middleware-lograge (v1.2.3, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-middleware-lograge-1.2.3/lib" />
@@ -3620,6 +3630,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape-swagger-0.27.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/grape-swagger-0.27.3/example" />
+      </SOURCES>
+    </library>
+    <library name="grape-swagger-entity (v0.2.3, RVM: ruby-2.3.5 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-swagger-entity-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-swagger-entity-0.2.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-swagger-entity-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/grape-swagger-entity-0.2.3/bin" />
       </SOURCES>
     </library>
     <library name="grape_logging (v1.7.0, RVM: ruby-2.4.2 [consyste]) [gem]">
