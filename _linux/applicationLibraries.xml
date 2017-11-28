@@ -368,6 +368,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-partitions-1.39.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.40.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.40.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.40.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.52, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-2.10.52/lib" />
@@ -1592,6 +1600,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bugsnag-6.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="bugsnag (v6.1.1, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bugsnag-6.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bugsnag-6.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/builder-3.2.3/lib" />
@@ -1948,6 +1964,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/coderay-1.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/coderay-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.2, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/coderay-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="coercible (v1.0.0, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -2722,6 +2748,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/hirb-0.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="hirb (v0.7.3, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/hirb-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/hirb-0.7.3/lib" />
+      </SOURCES>
+    </library>
     <library name="html_tables (v1.1.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/html_tables-1.1.0/lib" />
@@ -3052,6 +3086,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/method_source-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.9.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v3.1, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -3740,6 +3782,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/pry-0.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/pry-0.11.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.11.3, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/pry-0.11.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/pry-0.11.3/bin" />
       </SOURCES>
     </library>
     <library name="pry-rails (v0.3.6, RVM: ruby-2.3.5 [consyste]) [gem]">
