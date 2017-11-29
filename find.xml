@@ -20,6 +20,9 @@
       <mask>*.js*,*.rb</mask>
       <mask>*</mask>
       <mask>*.rb</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -37,6 +37,9 @@
         <added pattern="Acoes::self.chama_acao(nome,parametros)" />
         <added pattern="Acoes::self.chama_acao(nome,cnpj,parametros)" />
         <added pattern="SolicitacaoDownload::self.solicita!(tipo_documento,formato,params,usuario)" />
+        <added pattern="Mongoid::Relations::Macros::ClassMethods.belongs_to(name,options,block)" />
+        <added pattern="Logger.info(progname,block)" />
+        <added pattern="CertManager::self.chama_acao(nome,cnpj,parametros)" />
       </blacklist>
     </blacklists>
   </component>
