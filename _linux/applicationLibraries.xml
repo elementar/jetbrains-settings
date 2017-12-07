@@ -452,6 +452,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="browser (v2.5.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/browser-2.5.0/bin" />
@@ -1570,6 +1578,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/jmespath-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.3, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v2.1.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
@@ -2314,6 +2330,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/pry-rails-0.3.6/gemfiles" />
       </SOURCES>
     </library>
+    <library name="psych (v2.1.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/handlers" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/handlers" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v2.0.5, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/public_suffix-2.0.5/lib" />
@@ -2662,6 +2692,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rake-12.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.1, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/context" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/parser" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/context" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/parser" />
+        <root url="file:///usr/share/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.3, RVM: ruby-2.3.4 [consyste]) [gem]">
