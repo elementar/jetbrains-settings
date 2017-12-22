@@ -16,6 +16,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="XML" />
+      <mapping pattern="camposIcms" type="YAML" />
       <mapping pattern="camposObrigatoriedadeRelativa" type="YAML" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".gitignore_global" type="Git file" />
