@@ -1366,6 +1366,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-model-5.0.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-model (v5.0.2, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-rails (v5.0.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/elasticsearch-rails-5.0.1/lib" />
@@ -1380,6 +1390,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-rails-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v5.0.2, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-rails-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/elasticsearch-rails-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v5.0.4, RVM: ruby-2.3.4 [consyste]) [gem]">
@@ -1646,6 +1664,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashie-3.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.7, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashie-3.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/hashie-3.5.7/lib" />
       </SOURCES>
     </library>
     <library name="hirb (v0.7.3, ruby-2.3.3-p222) [gem]">
@@ -3732,6 +3758,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/selenium-webdriver-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.3.4 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/selenium-webdriver-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq (v5.0.4, RVM: ruby-2.3.4 [consyste]) [gem]">
