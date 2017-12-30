@@ -5966,6 +5966,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/parser-2.4.0.0/bin" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.2, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/parser-2.4.0.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/parser-2.4.0.2/bin" />
+      </SOURCES>
+    </library>
     <library name="patron (v0.10.0, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.10.0" />
@@ -8082,6 +8092,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.51.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.51.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.51.0/assets" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.52.1, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/rubocop-0.52.1/assets" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta10, RVM: ruby-2.3.5 [consyste]) [gem]">
