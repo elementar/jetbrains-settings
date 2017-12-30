@@ -680,6 +680,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-partitions-1.52.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.53.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.53.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-partitions-1.53.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.52, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-2.10.52/lib" />
@@ -966,6 +974,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-core-3.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.13.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-sdk-core-3.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-sdk-core-3.13.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.6.0, RVM: ruby-2.3.5 [consyste]) [gem]">
@@ -1578,6 +1594,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-s3-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.8.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-sdk-s3-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-sdk-s3-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-servicecatalog (v1.1.0, RVM: ruby-2.4.2 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/aws-sdk-servicecatalog-1.1.0/lib" />
@@ -1872,6 +1896,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/bigdecimal" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.2 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/bigdecimal" />
@@ -1950,10 +1982,12 @@
     </library>
     <library name="bson (v4.2.2, RVM: ruby-2.4.2 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bson-4.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bson-4.2.2/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bson/4.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bson-4.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bson-4.2.2/ext" />
       </SOURCES>
@@ -2028,6 +2062,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/bugsnag-6.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bugsnag (v6.4.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bugsnag-6.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/bugsnag-6.4.0/lib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, ruby-2.3.3-p222) [gem]">
@@ -4362,6 +4404,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json/add" />
       </SOURCES>
     </library>
+    <library name="json (v2.0.4, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v2.0.4, RVM: ruby-2.4.2 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json/add" />
@@ -4474,6 +4524,7 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.4.2 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/java" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/tools" />
@@ -4484,6 +4535,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/java" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/json-2.1.0/tools" />
@@ -5818,6 +5870,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/openssl" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.0.5, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/openssl" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/openssl" />
+      </SOURCES>
+    </library>
     <library name="openssl (v2.0.5, RVM: ruby-2.4.2 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/openssl" />
@@ -6204,6 +6264,20 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/handlers" />
       </SOURCES>
     </library>
+    <library name="psych (v2.2.2, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/handlers" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/handlers" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.2.2, RVM: ruby-2.4.2 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/nodes" />
@@ -6424,12 +6498,14 @@
     </library>
     <library name="puma (v3.11.0, RVM: ruby-2.4.2 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/puma-3.11.0/tools" />
@@ -7329,6 +7405,30 @@
       </SOURCES>
     </library>
     <library name="rdoc (v5.0.0, RVM: ruby-2.4.2 [brava]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/stats" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/stats" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v5.0.0, RVM: ruby-2.4.2 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/rd" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/parser" />
@@ -9390,6 +9490,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/vcr-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="vcr (v4.0.0, RVM: ruby-2.4.2 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/vcr-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@consyste/gems/vcr-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="virtus (v1.0.5, RVM: ruby-2.3.5 [consyste]) [gem]">
