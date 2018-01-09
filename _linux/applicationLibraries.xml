@@ -1962,11 +1962,13 @@
     </library>
     <library name="kgio (v2.11.1, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kgio-2.11.1/archive" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kgio-2.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kgio-2.11.1/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kgio-2.11.1/archive" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kgio-2.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/kgio-2.11.1/ext" />
@@ -3670,11 +3672,13 @@
     </library>
     <library name="ruby-prof (v0.17.0, RVM: ruby-2.3.4 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/ruby-prof-0.17.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/ruby-prof-0.17.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/ruby-prof-0.17.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@consyste/gems/ruby-prof-0.17.0/lib" />
