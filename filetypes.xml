@@ -18,6 +18,7 @@
       <mapping ext="ctr" type="PLAIN_TEXT" />
       <mapping ext="nomnoml" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="Ruby" />
+      <mapping pattern=".pryrc" type="Ruby" />
       <mapping ext="mustache" type="XML" />
       <mapping pattern=".editorconfig" type="Ini" />
     </extensionMap>
