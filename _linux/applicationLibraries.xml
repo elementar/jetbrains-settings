@@ -3194,6 +3194,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/dalli-2.7.6/lib" />
       </SOURCES>
     </library>
+    <library name="dalli (v2.7.6, RVM: ruby-2.5.0 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/dalli-2.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/dalli-2.7.6/lib" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.6.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/database_cleaner-1.6.1/lib" />
@@ -5270,6 +5278,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.1/archive" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/kgio-2.11.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kgio (v2.11.1, RVM: ruby-2.5.0 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/kgio/2.11.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/kgio-2.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/kgio-2.11.1/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/kgio-2.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/kgio/2.11.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/kgio-2.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/kgio-2.11.1/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/kgio-2.11.1/lib" />
       </SOURCES>
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.3.5 [consyste]) [gem]">
