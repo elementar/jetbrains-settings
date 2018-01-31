@@ -43,6 +43,7 @@
         <added pattern="RSpec::Matchers.match_array(items)" />
         <added pattern="Logger.error(progname,block)" />
         <added pattern="Kernel.sleep(duration)" />
+        <added pattern="Logger.warn(progname,block)" />
       </blacklist>
     </blacklists>
   </component>
