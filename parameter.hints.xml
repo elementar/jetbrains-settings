@@ -41,6 +41,9 @@
         <added pattern="Logger.info(progname,block)" />
         <added pattern="CertManager::self.chama_acao(nome,cnpj,parametros)" />
         <added pattern="RSpec::Matchers.match_array(items)" />
+        <added pattern="Logger.error(progname,block)" />
+        <added pattern="Kernel.sleep(duration)" />
+        <added pattern="Logger.warn(progname,block)" />
       </blacklist>
     </blacklists>
   </component>
