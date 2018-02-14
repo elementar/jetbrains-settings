@@ -2,48 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript">
-        <added pattern="Lab.experiment(desc,cb)" />
-        <added pattern="Lab.test(desc,cb)" />
-        <added pattern="Values.equal(value,options)" />
-        <added pattern="createKoaServer(options)" />
-        <added pattern="expect(value,prefix)" />
-        <added pattern="log(args)" />
-        <added pattern="insertMany(cls,values)" />
-        <added pattern="_.LoDashStatic.range(start,end,step)" />
-        <added pattern="before(callback)" />
-        <added pattern="QueryRunner.insert(tableName,valuesMap)" />
-        <added pattern="EntityManager.transaction(runInTransaction)" />
-        <added pattern="String.split(separator,limit)" />
-        <added pattern="Array.map(callbackfn,thisArg)" />
-        <added pattern="moment.Moment.month(M)" />
-        <added pattern="jest.Matchers.toEqual(expected)" />
-        <added pattern="Array.filter(callbackfn,thisArg)" />
-        <added pattern="SelectQueryBuilder.leftJoinAndSelect(property,aliasName,condition,parameters)" />
-        <added pattern="QueryRunner.query(query,parameters)" />
-        <added pattern="EmailTemplate.send(to,data)" />
-        <added pattern="createClient(url,options,callback)" />
-        <added pattern="fixDates(content)" />
-      </blacklist>
-      <blacklist language="Ruby">
-        <added pattern="RSpec::Expectations::ExpectationTarget::InstanceMethods.to(matcher,message,block)" />
-        <added pattern="Mongoid::Fields::ClassMethods.field(name,options)" />
-        <added pattern="Mongoid::Indexable::ClassMethods.index(spec,options)" />
-        <added pattern="Mongoid::Scopable::ClassMethods.scope(name,value,block)" />
-        <added pattern="Mongoid::Document.initialize(attrs)" />
-        <added pattern="Mongoid::Persistable::Creatable::ClassMethods.create!(attributes,block)" />
-        <added pattern="RSpec::Core::MemoizedHelpers::ClassMethods.let!(name,block)" />
-        <added pattern="ActiveSupport::HashWithIndifferentAccess.initialize(constructor)" />
-        <added pattern="Net::HTTP::HTTP.post(url,data,header)" />
-        <added pattern="Acoes::self.chama_acao(nome,parametros)" />
-        <added pattern="Acoes::self.chama_acao(nome,cnpj,parametros)" />
-        <added pattern="SolicitacaoDownload::self.solicita!(tipo_documento,formato,params,usuario)" />
-        <added pattern="Mongoid::Relations::Macros::ClassMethods.belongs_to(name,options,block)" />
-        <added pattern="Logger.info(progname,block)" />
-        <added pattern="CertManager::self.chama_acao(nome,cnpj,parametros)" />
-        <added pattern="RSpec::Matchers.match_array(items)" />
-        <added pattern="Logger.error(progname,block)" />
-        <added pattern="Kernel.sleep(duration)" />
-        <added pattern="Logger.warn(progname,block)" />
+        <added pattern="encode(decodedText)" />
       </blacklist>
     </blacklists>
   </component>
