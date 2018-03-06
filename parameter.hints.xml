@@ -4,6 +4,9 @@
       <blacklist language="TypeScript">
         <added pattern="encode(decodedText)" />
       </blacklist>
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Matchers.start_with(expected)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
