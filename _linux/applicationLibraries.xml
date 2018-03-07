@@ -2358,10 +2358,12 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bcrypt-3.1.11/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bcrypt-3.1.11/ext" />
       </SOURCES>
@@ -2572,10 +2574,12 @@
     </library>
     <library name="bson (v4.2.2, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.2.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.2.2/lib" />
       </SOURCES>
@@ -2594,10 +2598,12 @@
     </library>
     <library name="bson (v4.3.0, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.3.0/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson-4.3.0/ext" />
       </SOURCES>
@@ -2636,9 +2642,11 @@
     </library>
     <library name="bson_ext (v1.5.1, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson_ext-1.5.1/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/bson_ext-1.5.1/ext" />
       </SOURCES>
     </library>
@@ -4186,10 +4194,12 @@
     </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/debug_inspector-0.0.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/debug_inspector-0.0.3/lib" />
       </SOURCES>
@@ -5506,12 +5516,14 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.18/gen" />
@@ -5578,11 +5590,13 @@
     </library>
     <library name="ffi (v1.9.23, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.23/samples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.23/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.23/samples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ffi-1.9.23/lib" />
@@ -7012,11 +7026,13 @@
     </library>
     <library name="kgio (v2.11.2, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/kgio-2.11.2/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/kgio-2.11.2/archive" />
@@ -8894,6 +8910,7 @@
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/suppressions" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/tasks" />
@@ -8902,6 +8919,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/suppressions" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/nokogiri-1.8.2/tasks" />
@@ -9154,11 +9172,13 @@
     </library>
     <library name="patron (v0.12.1, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/patron-0.12.1/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/patron-0.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/patron-0.12.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/patron/0.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/patron-0.12.1/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/patron-0.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/patron-0.12.1/lib" />
@@ -9942,12 +9962,14 @@
     </library>
     <library name="puma (v3.11.3, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/puma-3.11.3/lib" />
@@ -12408,11 +12430,13 @@
     </library>
     <library name="ruby-prof (v0.17.0, RVM: ruby-2.3.6 [consyste]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ruby-prof-0.17.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ruby-prof-0.17.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ruby-prof-0.17.0/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ruby-prof-0.17.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ruby-prof-0.17.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@consyste/gems/ruby-prof-0.17.0/bin" />
