@@ -1016,6 +1016,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/aws-partitions-1.69.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.70.0, RVM: ruby-2.5.0 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/aws-partitions-1.70.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/aws-partitions-1.70.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.52, RVM: ruby-2.3.5 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5@consyste/gems/aws-sdk-2.10.52/lib" />
@@ -4798,6 +4806,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/bundler/gems/doorkeeper-mongodb-9053cc301b27/doorkeeper" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/bundler/gems/doorkeeper-mongodb-9053cc301b27/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/bundler/gems/doorkeeper-mongodb-9053cc301b27/lib" />
+      </SOURCES>
+    </library>
+    <library name="doorkeeper-mongodb (v4.0.1, RVM: ruby-2.5.0 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/doorkeeper-mongodb-4.0.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/doorkeeper-mongodb-4.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/doorkeeper-mongodb-4.0.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/doorkeeper-mongodb-4.0.1/lib" />
       </SOURCES>
     </library>
     <library name="dotenv (v2.2.1, RVM: ruby-2.4.1 [brava]) [gem]">
