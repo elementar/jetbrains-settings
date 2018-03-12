@@ -4,6 +4,10 @@
       <blacklist language="TypeScript">
         <added pattern="encode(decodedText)" />
       </blacklist>
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Matchers.start_with(expected)" />
+        <added pattern="Mongo::Collection.aggregate(pipeline,options)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
