@@ -7,6 +7,7 @@
       <blacklist language="Ruby">
         <added pattern="RSpec::Matchers.start_with(expected)" />
         <added pattern="Mongo::Collection.aggregate(pipeline,options)" />
+        <added pattern="api_request(url,params)" />
       </blacklist>
     </blacklists>
   </component>
