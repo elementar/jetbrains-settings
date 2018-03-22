@@ -8,6 +8,7 @@
         <added pattern="RSpec::Matchers.start_with(expected)" />
         <added pattern="Mongo::Collection.aggregate(pipeline,options)" />
         <added pattern="api_request(url,params)" />
+        <added pattern="RSpec::Matchers.match_array(items)" />
       </blacklist>
     </blacklists>
   </component>
