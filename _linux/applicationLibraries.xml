@@ -2456,6 +2456,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta2/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, RVM: ruby-2.5.0 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-msg (v1.5.2, RVM: ruby-2.5.0 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@consyste/gems/ruby-msg-1.5.2/lib" />
