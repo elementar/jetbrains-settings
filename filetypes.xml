@@ -8,6 +8,7 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".gcloudignore" type="Ignore file" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".resultset.json.lock" type="JSON" />
