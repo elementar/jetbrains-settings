@@ -14,8 +14,8 @@
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </JSCodeStyleSettings>
   <JSON>
-    <option name="OBJECT_WRAPPING" value="1" />
-    <option name="ARRAY_WRAPPING" value="1" />
+    <option name="OBJECT_WRAPPING" value="0" />
+    <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
