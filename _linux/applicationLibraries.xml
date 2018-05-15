@@ -507,9 +507,11 @@
     <library name="devise (v4.4.3, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/devise-4.4.3/app" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/devise-4.4.3/app" />
       </SOURCES>
     </library>
     <library name="devise-doorkeeper (v1.1.2, RVM: ruby-2.5.1 [consyste]) [gem]">
@@ -555,9 +557,13 @@
     <library name="doorkeeper (v4.3.2, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/doorkeeper-4.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/doorkeeper-4.3.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/doorkeeper-4.3.2/vendor" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/doorkeeper-4.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/doorkeeper-4.3.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/doorkeeper-4.3.2/vendor" />
       </SOURCES>
     </library>
     <library name="doorkeeper-mongodb (v4.0.1, RVM: ruby-2.5.1 [consyste]) [gem]">
@@ -915,9 +921,11 @@
     <library name="kaminari-core (v1.1.1, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/kaminari-core-1.1.1/app" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/kaminari-core-1.1.1/app" />
       </SOURCES>
     </library>
     <library name="kaminari-mongoid (v1.0.1, RVM: ruby-2.5.1 [consyste]) [gem]">
@@ -1216,12 +1224,10 @@
     </library>
     <library name="patron (v0.13.1, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/patron/0.13.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/patron/0.13.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/ext" />
       </SOURCES>
@@ -1264,11 +1270,9 @@
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/puma-3.11.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/puma-3.11.4/lib" />
       </SOURCES>
     </library>
