@@ -254,11 +254,9 @@
     </library>
     <library name="bson (v4.3.0, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bson/4.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/bson-4.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bson/4.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/bson-4.3.0/lib" />
       </SOURCES>
     </library>
@@ -1004,11 +1002,9 @@
     </library>
     <library name="kgio (v2.11.2, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/kgio-2.11.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/kgio-2.11.2/lib" />
       </SOURCES>
     </library>
@@ -1362,11 +1358,9 @@
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/puma-3.11.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/puma-3.11.4/lib" />
       </SOURCES>
     </library>
