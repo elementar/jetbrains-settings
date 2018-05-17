@@ -104,6 +104,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/airborne-0.2.13/lib" />
       </SOURCES>
     </library>
+    <library name="amq-protocol (v2.3.0, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/amq-protocol-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/amq-protocol-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.11.0, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/archive-zip-0.11.0/lib" />
@@ -300,6 +308,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/bundler-1.16.1/lib" />
       </SOURCES>
     </library>
+    <library name="bunny (v2.9.2, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/bunny-2.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/bunny-2.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="camcorder (v0.0.5, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/camcorder-0.0.5/lib" />
@@ -362,6 +378,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/carrierwave-aws-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="carrierwave-mongoid (v0.1.0, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/carrierwave-mongoid-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/carrierwave-mongoid-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="carrierwave-mongoid (v1.0.0, RVM: ruby-2.5.1 [consyste]) [gem]">
@@ -1174,6 +1198,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/mongoid-6.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid (v7.0.1, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/mongoid-7.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/mongoid-7.0.1/lib" />
       </SOURCES>
     </library>
     <library name="mongoid-compatibility (v0.5.1, RVM: ruby-2.5.1 [consyste]) [gem]">
