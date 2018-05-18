@@ -488,6 +488,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/debase-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/debase-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.3, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/debase-ruby_core_source-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/debug_inspector-0.0.3/lib" />
@@ -739,14 +755,6 @@
     <library name="gdbm (v2.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
       <SOURCES />
-    </library>
-    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.1 [consyste]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/gem-wrappers-1.4.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/gem-wrappers-1.4.0/lib" />
-      </SOURCES>
     </library>
     <library name="globalid (v0.4.1, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
@@ -1216,12 +1224,10 @@
     </library>
     <library name="patron (v0.13.1, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/patron/0.13.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/patron/0.13.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/patron-0.13.1/ext" />
       </SOURCES>
@@ -1264,11 +1270,9 @@
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/puma-3.11.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/puma-3.11.4/lib" />
       </SOURCES>
     </library>
@@ -1548,6 +1552,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/rspec-teamcity-0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, RVM: ruby-2.5.1 [consyste]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-msg (v1.5.2, RVM: ruby-2.5.1 [consyste]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ruby-msg-1.5.2/lib" />
@@ -1658,14 +1670,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/simple_form-3.5.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="simple_form (v4.0.0, RVM: ruby-2.5.1 [consyste]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/simple_form-4.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/simple_form-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.16.1, RVM: ruby-2.5.1 [consyste]) [gem]">
