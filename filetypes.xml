@@ -1,10 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="Bash" />
-      <mapping pattern="console" type="Bash" />
-      <mapping pattern="run_tests" type="Bash" />
-      <mapping pattern="migra" type="Bash" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
@@ -12,7 +8,6 @@
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".resultset.json.lock" type="JSON" />
-      <mapping ext="snap" type="JavaScript" />
       <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
@@ -23,6 +18,9 @@
       <mapping ext="nomnoml" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="Ruby" />
       <mapping pattern=".simplecov" type="Ruby" />
+      <mapping pattern="console" type="Bash" />
+      <mapping pattern="migra" type="Bash" />
+      <mapping pattern="run_tests" type="Bash" />
     </extensionMap>
   </component>
 </application>
