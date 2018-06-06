@@ -40,6 +40,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.10.3/gemfiles" />
       </excluded>
     </library>
+    <library name="active_attr (v0.11.0, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr-0.11.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="active_attr_extended (v0.9.0.1, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/active_attr_extended-0.9.0.1/bin" />
@@ -222,6 +238,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/aws-partitions-1.88.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.91.0, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/aws-partitions-1.91.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/aws-partitions-1.91.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.19.0, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
@@ -656,6 +680,19 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.1.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.1.0/.yard" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.2.1, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/capybara-3.2.1/spec" />
       </excluded>
     </library>
     <library name="capybara-screenshot (v1.0.18, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
@@ -1482,6 +1519,24 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.23/samples" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.9.25, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/ffi-1.9.25/samples" />
       </excluded>
     </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
@@ -2407,6 +2462,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.1.0.344/recipes" />
       </excluded>
     </library>
+    <library name="newrelic_rpm (v5.2.0.345, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/newrelic_rpm-5.2.0.345/recipes" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
@@ -2723,6 +2803,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/rack-protection-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.2, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/rack-protection-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/rack-protection-2.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
@@ -3771,6 +3859,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.1/minitest" />
       </excluded>
     </library>
+    <library name="webmock (v3.4.2, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/webmock-3.4.2/minitest" />
+      </excluded>
+    </library>
     <library name="xpath (v3.0.0, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.0.0/lib" />
@@ -3782,6 +3889,19 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="xpath (v3.1.0, RVM: ruby-2.5.1 [consyste]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@consyste/gems/xpath-3.1.0/spec" />
       </excluded>
     </library>
   </component>
