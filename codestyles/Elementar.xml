@@ -17,6 +17,9 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
@@ -54,5 +57,9 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
