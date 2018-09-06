@@ -1,4 +1,4 @@
-<code_scheme name="Elementar" version="173">
+<code_scheme name="Vnda" version="173">
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
@@ -59,7 +59,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
