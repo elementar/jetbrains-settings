@@ -17,9 +17,6 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
-  <Ruby>
-    <option name="INDENT_WHEN_CASES" value="true" />
-  </Ruby>
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
