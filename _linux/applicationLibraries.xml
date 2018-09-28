@@ -9942,7 +9942,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/lib" />
@@ -9953,7 +9952,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogiri-1.8.2/lib" />
@@ -10104,13 +10102,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogumbo/1.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogumbo-1.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogumbo-1.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogumbo-1.5.0/gumbo-parser" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogumbo/1.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogumbo-1.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogumbo-1.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/nokogumbo-1.5.0/gumbo-parser" />
@@ -10144,13 +10140,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/oj-2.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/oj-2.10.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/oj-2.10.4/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/oj-2.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/oj-2.10.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/oj-2.10.4/test" />
@@ -11197,7 +11191,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/lib" />
@@ -11205,7 +11198,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.7@vnda/gems/puma-3.12.0/lib" />
