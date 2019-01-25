@@ -3,19 +3,19 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />
-      <mapping pattern=".jestrc" type="JSON" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".gcloudignore" type="Ignore file" />
       <mapping pattern=".resultset.json.lock" type="JSON" />
+      <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ctr" type="PLAIN_TEXT" />
       <mapping ext="nomnoml" type="PLAIN_TEXT" />
-      <mapping ext="eml" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="node" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="Ini" />
-      <mapping pattern=".gcloudignore" type="Ignore file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping pattern=".pryrc" type="Ruby" />
       <mapping pattern=".simplecov" type="Ruby" />
       <mapping pattern="console" type="Bash" />
