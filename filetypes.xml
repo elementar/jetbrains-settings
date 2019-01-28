@@ -17,7 +17,6 @@
       <mapping ext="nomnoml" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="Ruby" />
       <mapping pattern=".pryrc" type="Ruby" />
-      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping pattern="console" type="Bash" />
       <mapping pattern="migra" type="Bash" />
       <mapping pattern="run_tests" type="Bash" />
