@@ -9,6 +9,7 @@
         <added pattern="Mongo::Collection.aggregate(pipeline,options)" />
         <added pattern="api_request(url,params)" />
         <added pattern="RSpec::Matchers.match_array(items)" />
+        <added pattern="RSpec::Core::DSL.describe(args,example_group_block)" />
       </blacklist>
     </blacklists>
   </component>
