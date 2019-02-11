@@ -5,8 +5,8 @@
       <mapping ext="test" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gcloudignore" type="Ignore file" />
-      <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".resultset.json.lock" type="JSON" />
+      <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
@@ -15,8 +15,8 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ctr" type="PLAIN_TEXT" />
       <mapping ext="nomnoml" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="Ruby" />
       <mapping pattern=".simplecov" type="Ruby" />
+      <mapping pattern=".pryrc" type="Ruby" />
       <mapping pattern="console" type="Bash" />
       <mapping pattern="migra" type="Bash" />
       <mapping pattern="run_tests" type="Bash" />
