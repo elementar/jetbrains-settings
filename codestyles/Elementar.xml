@@ -1,5 +1,5 @@
 <code_scheme name="Elementar" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
@@ -17,7 +17,10 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
-  <TypeScriptCodeStyleSettings>
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
