@@ -3020,6 +3020,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.5.3/spec" />
       </excluded>
     </library>
+    <library name="mongo (v2.8.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/mongo-2.8.0/spec" />
+      </excluded>
+    </library>
     <library name="mongoid (v5.4.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
