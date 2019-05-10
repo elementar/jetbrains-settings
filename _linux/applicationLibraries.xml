@@ -699,6 +699,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/bcrypt-3.1.12/spec" />
       </excluded>
     </library>
+    <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.1 [brava]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1267,6 +1281,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/clockwork-2.0.3/gemfiles" />
       </excluded>
     </library>
+    <library name="cmath (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="cnpj_validator (v0.3.2, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1444,6 +1465,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="csv (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="dalli (v2.7.10, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1487,6 +1515,13 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/database_cleaner-1.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="date (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="debase (v0.2.2, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
@@ -1993,6 +2028,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/elasticsearch-rails-5.1.0/test" />
       </excluded>
     </library>
+    <library name="elasticsearch-rails (v6.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/elasticsearch-rails-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/elasticsearch-rails-6.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/elasticsearch-rails-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/elasticsearch-rails-6.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/elasticsearch-rails-6.0.0/test" />
+      </excluded>
+    </library>
     <library name="elasticsearch-transport (v5.0.5, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2061,6 +2112,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/erubis-2.7.0/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/erubis-2.7.0/benchmark" />
       </excluded>
+    </library>
+    <library name="etc (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
@@ -2182,6 +2240,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/faraday_middleware-0.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="fcntl (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="ffi (v1.10.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2223,6 +2288,20 @@
     <library name="fiddle (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.0.2, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="gdbm (v2.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -2621,6 +2700,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/ice_nine-0.11.2/benchmarks" />
       </excluded>
     </library>
+    <library name="io-console (v0.4.6, RVM: ruby-2.4.1 [brava]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="io-console (v0.4.6, RVM: ruby-2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="io-console (v0.4.6, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2638,6 +2731,13 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/io-like-0.3.0/lib" />
       </SOURCES>
+    </library>
+    <library name="ipaddr (v1.2.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="jbuilder (v2.7.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
@@ -3807,6 +3907,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/nokogiri-1.8.5/suppressions" />
       </excluded>
     </library>
+    <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [brava]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="openssl (v2.0.5, RVM: ruby-2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="openssl (v2.1.2, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4313,6 +4427,20 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/rails-4.2.11.1/guides" />
       </excluded>
+    </library>
+    <library name="rails (v5.1.4, RVM: ruby-2.4.1 [brava]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails (v5.1.4, RVM: ruby-2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
@@ -5205,6 +5333,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/safe_yaml-1.0.5/spec" />
       </excluded>
     </library>
+    <library name="scanf (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="sdbm (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="selenium-webdriver (v3.14.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5562,6 +5704,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
+    </library>
+    <library name="stringio (v0.0.1, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="strscan (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="temple (v0.8.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
       <properties>
@@ -6027,6 +6183,13 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@consyste/gems/xpath-3.2.0/spec" />
       </excluded>
+    </library>
+    <library name="zlib (v1.0.0, RVM: ruby-2.5.3 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
   </component>
 </application>
