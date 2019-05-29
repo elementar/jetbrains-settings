@@ -5,18 +5,28 @@
       <mapping ext="test" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gcloudignore" type="Ignore file" />
-      <mapping pattern=".resultset.json.lock" type="JSON" />
       <mapping pattern=".jestrc" type="JSON" />
-      <mapping pattern="node-entry" type="PLAIN_TEXT" />
+      <mapping pattern=".resultset.json.lock" type="JSON" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
+      <mapping pattern="node-entry" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ctr" type="PLAIN_TEXT" />
       <mapping ext="nomnoml" type="PLAIN_TEXT" />
-      <mapping pattern=".simplecov" type="Ruby" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="Ruby" />
+      <mapping pattern=".simplecov" type="Ruby" />
       <mapping pattern="console" type="Bash" />
       <mapping pattern="migra" type="Bash" />
       <mapping pattern="run_tests" type="Bash" />
