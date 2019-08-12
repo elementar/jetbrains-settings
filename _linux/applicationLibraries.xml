@@ -318,17 +318,6 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
       </excluded>
     </library>
-    <library name="rvm (v1.11.3.9, ruby-2.5.5-p157) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/share/rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/rvm-1.11.3.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/share/rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/rvm-1.11.3.9/lib" />
-      </SOURCES>
-    </library>
     <library name="test-unit (v3.2.7, ruby-2.5.5-p157) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
