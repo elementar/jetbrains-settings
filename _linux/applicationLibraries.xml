@@ -321,11 +321,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bcrypt-3.1.13/spec" />
@@ -386,14 +388,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/spec" />
       </excluded>
     </library>
+    <library name="bson (v4.7.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bson/4.7.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bson/4.7.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.7.0/spec" />
+      </excluded>
+    </library>
     <library name="bson_ext (v1.5.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson_ext-1.5.1/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bson_ext/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson_ext-1.5.1/ext" />
       </SOURCES>
     </library>
@@ -418,6 +443,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.11.1/.github" />
       </excluded>
     </library>
+    <library name="bugsnag (v6.12.2, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bugsnag-6.12.2/.github" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.3, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -438,6 +484,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.3/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.3/rakelib" />
+      </excluded>
+    </library>
+    <library name="builder (v3.2.4, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/builder-3.2.4/rakelib" />
       </excluded>
     </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -832,6 +900,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crass (v1.0.5, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/crass-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/crass-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="dalli (v2.7.10, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -927,11 +1006,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/debug_inspector-0.0.3/test" />
@@ -1341,6 +1422,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.17.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/faraday-0.17.1/test" />
+      </excluded>
+    </library>
     <library name="faraday-cookie_jar (v0.0.6, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1548,6 +1648,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/hashie-3.6.0/spec" />
       </excluded>
     </library>
+    <library name="hashie (v4.0.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/hashie-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/hashie-4.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/hashie-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/hashie-4.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/hashie-4.0.0/spec" />
+      </excluded>
+    </library>
     <library name="hirb (v0.7.3, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1749,6 +1865,39 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/references" />
       </excluded>
     </library>
+    <library name="json (v2.3.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.3.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.3.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.3.0/references" />
+      </excluded>
+    </library>
     <library name="kaminari-actionview (v1.1.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1802,12 +1951,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/kgio-2.11.2/test" />
@@ -1869,6 +2020,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.2.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.2.3/benchmark" />
+      </excluded>
+    </library>
+    <library name="loofah (v2.4.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/loofah-2.4.0/benchmark" />
       </excluded>
     </library>
     <library name="mail (v2.6.6, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -2033,6 +2203,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.13.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/minitest-5.13.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/minitest-5.13.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/minitest-5.13.0/test" />
+      </excluded>
+    </library>
     <library name="monetize (v1.9.2, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2119,6 +2305,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/mongoid-5.4.0/spec" />
       </excluded>
     </library>
+    <library name="mongoid (v5.4.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/mongoid-5.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/mongoid-5.4.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/mongoid-5.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/mongoid-5.4.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/mongoid-5.4.1/spec" />
+      </excluded>
+    </library>
     <library name="mongoid-compatibility (v0.5.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2192,6 +2394,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.14.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/multi_json-1.14.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/multi_json-1.14.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.6.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -2291,6 +2504,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/netrc-0.11.0/test" />
       </excluded>
     </library>
+    <library name="newrelic-elasticsearch (v0.3.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic-elasticsearch-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic-elasticsearch-0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="newrelic_rpm (v6.5.0.357, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2319,6 +2543,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.5.0.357/recipes" />
       </excluded>
     </library>
+    <library name="newrelic_rpm (v6.7.0.359, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/newrelic_rpm-6.7.0.359/recipes" />
+      </excluded>
+    </library>
     <library name="nio4r (v2.4.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2344,6 +2596,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.5.2, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.5.2/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.3, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2364,6 +2643,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.3/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.7, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nokogiri-1.10.7/patches" />
       </excluded>
     </library>
     <library name="openssl (v2.1.2, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -2408,12 +2711,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/patron/0.13.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/script" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/patron/0.13.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/patron-0.13.3/spec" />
@@ -2545,6 +2850,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.0.1/tools" />
       </excluded>
     </library>
+    <library name="puma (v4.3.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/4.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/4.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/puma-4.3.1/tools" />
+      </excluded>
+    </library>
     <library name="quick-search (v0.9.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2608,6 +2940,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.11/example" />
       </excluded>
     </library>
+    <library name="rack (v1.6.12, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-1.6.12/example" />
+      </excluded>
+    </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2649,6 +3006,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-protection-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.7, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-protection-2.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rack-protection-2.0.7/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -2727,6 +3095,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rails-html-sanitizer-1.0.4/test" />
+      </excluded>
+    </library>
+    <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rails-html-sanitizer-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rails-html-sanitizer-1.3.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rails-html-sanitizer-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rails-html-sanitizer-1.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/rails-html-sanitizer-1.3.0/test" />
       </excluded>
     </library>
     <library name="rails_autolink (v1.1.6, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -2854,6 +3238,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-4.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="redis (v4.1.3, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-4.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-4.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-namespace (v1.6.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2868,6 +3263,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-namespace-1.6.0/spec" />
+      </excluded>
+    </library>
+    <library name="redis-namespace (v1.7.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-namespace-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-namespace-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-namespace-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-namespace-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/redis-namespace-1.7.0/spec" />
       </excluded>
     </library>
     <library name="regexp_parser (v1.6.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -3228,6 +3639,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/test" />
+      </excluded>
+    </library>
+    <library name="ruby-prof (v1.1.0, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-prof/1.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-prof/1.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.1.0/test" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
@@ -3645,6 +4080,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/thor-0.20.3/bin" />
+      </excluded>
+    </library>
+    <library name="thor (v1.0.1, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/thor-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/thor-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/thor-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/thor-1.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/thor-1.0.1/bin" />
       </excluded>
     </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.5.7 [consyste]) [gem]" type="rubylib">
