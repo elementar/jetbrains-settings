@@ -374,11 +374,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bson/4.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bson/4.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/bson-4.5.0/spec" />
@@ -1839,6 +1841,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/java" />
@@ -1848,6 +1851,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/json-2.2.0/java" />
@@ -2576,6 +2580,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/spec" />
@@ -2583,6 +2588,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/nio4r-2.4.0/spec" />
@@ -3624,12 +3630,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-prof/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-prof/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.7@consyste/gems/ruby-prof-1.0.0/lib" />
